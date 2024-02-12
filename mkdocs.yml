@@ -1,3 +1,56 @@
-site_name: JsonUI
+site_name: Minecraft基岩UI开发文档
+repo_url: https://github.com/Tanya7z/mcbeui-docs
+repo_name: Tanya7z/mcbeui-docs
+edit_uri: main
+copyright: Copyright &copy; 2024 Shiroha7z(Tanya7z)
 theme:
   name: material
+  language: zh
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      primary: white
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: indigo
+extra:
+  consent:
+    title: Cookie 使用许可
+    description: 
+      我们的网站使用 Cookie 来为您提供更好的浏览体验和服务。Cookie 可以帮助我们记住您的偏好设置，分析网站的流量，以及改进我们的文档站。
+    actions:
+    - accept
+  features:
+  - navigation.instant
+  - navigation.instant.prefetch # 即时预取
+  - navigation.instant.progress # 进度条
+  - navigation.instant.preview # 即时预览
+  - navigation.tracking # 锚点跟踪
+  - navigation.tabs # 导航选项卡
+  - navigation.sections
+  - navigation.path # 导航路径
+  - navigation.indexes # 章节索引页
+  - navigation.top # 返回顶部
+  - navigation.footer # 页脚前进后退
+  
+  - search.highlight # 搜索高亮显示
+  - search.share # 搜索共享
+  
+  - content.action.edit # 编辑本页
+  - content.action.view # 查看源代码
+  social:
+    - icon: fontawesome/brands/bilibili 
+      link: https://b23.tv/1vmFGNM
+    - icon: fontawesome/brands/qq 
+      link: https://qm.qq.com/q/IQ8oyzEHme
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:2131595226@qq.com
