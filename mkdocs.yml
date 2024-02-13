@@ -6,6 +6,8 @@ copyright: Copyright &copy; 2024 Shiroha7z(Tanya7z)
 theme:
   name: material
   language: zh
+  logo: assets/logo.png
+  favicon: assets/logo.png
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
