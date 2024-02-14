@@ -10,4 +10,5 @@ JSON 是存储和交换文本信息的语法，其语法十分简单，您必须
 [MinecraftWiki:附加包](https://zh.minecraft.wiki/w/%E9%99%84%E5%8A%A0%E5%8C%85)
 ## 官方资源包模板
 它是你了解与学习UI的重要方式。
-[Mojang/bedrock-samples](https://github.com/Mojang/bedrock-samples)
+[Mojang/bedrock-samples](https://github.com/Mojang/bedrock-samples)  
+现在打开资源包模板，我们进入Class2。

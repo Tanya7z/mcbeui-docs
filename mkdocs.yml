@@ -1,7 +1,7 @@
 site_name: Minecraft基岩UI开发文档
 repo_url: https://github.com/Tanya7z/mcbeui-docs
 repo_name: Tanya7z/mcbeui-docs
-edit_uri: main
+edit_uri: edit/main/docs
 copyright: Copyright &copy; 2024 Shiroha7z(Tanya7z)
 theme:
   name: material
